@@ -14,3 +14,6 @@ To run different provided test files, please edit the variable "cap" near the to
 To run files outside of the provided ones, you can edit the filename inside the quotation marks and include your video. Please note this video must be in the same folder as the python file.
   An example of this is changing "cap = cv2.VideoCapture("test5.mp4")" to "cap = cv2.VideoCapture("carVideo.mp4")" to run a video named carVideo.mp4.
   
+  
+ Please note that video 4 and 5 have been compressed to allow upload to GitHub as it was limited to 25 MB. 
+  
