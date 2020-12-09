@@ -7,8 +7,6 @@ import numpy as np
 import time
 
 
-
-
 #Various different test videos including in the repository, to change which video is ran, uncomment it and comment out
 #the other videos.
 
