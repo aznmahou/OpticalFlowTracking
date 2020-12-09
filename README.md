@@ -1,6 +1,8 @@
 # OpticalFlowTracking
 This repository contains two programs with vehicular tracking based the sparse and dense optical flow algorithms of Lucas-Kanade and Gunnar-Farneback. Five test videos are also provided along with a paper written about these programs.
 
+ Please note that video 4 and 5 have been compressed to allow upload to GitHub as it was limited to 25 MB. 
+
 # Requirements
 - Python
 - OpenCV
@@ -15,5 +17,4 @@ To run files outside of the provided ones, you can edit the filename inside the 
   An example of this is changing "cap = cv2.VideoCapture("test5.mp4")" to "cap = cv2.VideoCapture("carVideo.mp4")" to run a video named carVideo.mp4.
   
   
- Please note that video 4 and 5 have been compressed to allow upload to GitHub as it was limited to 25 MB. 
   
